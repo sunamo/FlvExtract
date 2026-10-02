@@ -1,3 +1,7 @@
+## Short description
+
+Fork přenositelné (PCL) .NET knihovny pro extrakci audio a video stop ze souborů FLV. Jde o PCL port knihovny FlvExtract od J.D. Purcella. Obsahuje writery pro AAC, AVI a další formáty.
+
 FlvExtract
 ==========
 
